@@ -22,4 +22,4 @@
       - 여행지 정보 및 동선 조회, 여행 일정 계획수립 지원 시스템
                    
 ### 3. DB 설계
-     ![그림1](https://user-images.githubusercontent.com/58754885/85341311-cf521500-b522-11ea-913f-f73c097fd635.png)
+      - https://www.erdcloud.com/d/3Edt5eHo6baewdXWb
